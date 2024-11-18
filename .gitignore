@@ -136,3 +136,4 @@ Desktop.ini
 *.pid
 *.seed
 *.pid.lock
+.env
